@@ -1,427 +1,427 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png",SBT BAHIA ARATU HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png",SBT BAHIA ARATU HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/386
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://4.bp.blogspot.com/-36WvGtfmUg4/UuApc4_4o9I/AAAAAAAAhBA/xp4uQ3LEQDE/s1600/globosat.png",+ GLOBOSAT HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://4.bp.blogspot.com/-36WvGtfmUg4/UuApc4_4o9I/AAAAAAAAhBA/xp4uQ3LEQDE/s1600/globosat.png",+ GLOBOSAT HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31908
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://4.bp.blogspot.com/-36WvGtfmUg4/UuApc4_4o9I/AAAAAAAAhBA/xp4uQ3LEQDE/s1600/globosat.png",+ GLOBOSAT HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://4.bp.blogspot.com/-36WvGtfmUg4/UuApc4_4o9I/AAAAAAAAhBA/xp4uQ3LEQDE/s1600/globosat.png",+ GLOBOSAT HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/178
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Logo_AE_Germany.svg/1200px-Logo_AE_Germany.svg.png",A&E HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Logo_AE_Germany.svg/1200px-Logo_AE_Germany.svg.png",A&E HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/2
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Logo_AE_Germany.svg/1200px-Logo_AE_Germany.svg.png",A&E HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Logo_AE_Germany.svg/1200px-Logo_AE_Germany.svg.png",A&E HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31849
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/800px-AMC_logo_2016.svg.png",AMC HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/800px-AMC_logo_2016.svg.png",AMC HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/5
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/800px-AMC_logo_2016.svg.png",AMC HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/800px-AMC_logo_2016.svg.png",AMC HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31850
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png",ANIMAL PLANET HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png",ANIMAL PLANET HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/8
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="http://p2toopnet.ml:2082/files/logo/axn.png",AXN HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="http://p2toopnet.ml:2082/files/logo/axn.png",AXN HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/13
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="http://p2toopnet.ml:2082/files/logo/axn.png",AXN HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="http://p2toopnet.ml:2082/files/logo/axn.png",AXN HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31851
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="http://logocanais.ddns.net/Logo/Band.png",BAND HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="http://logocanais.ddns.net/Logo/Band.png",BAND HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/395
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandnews-logo.png",BAND NEWS HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandnews-logo.png",BAND NEWS HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31852
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://i.imgur.com/4qhayiv.png",BAND SPORTS HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://i.imgur.com/4qhayiv.png",BAND SPORTS HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/29
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="http://img.brgo.xyz/img/bandsportshd.png",BAND SPORTS HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="http://img.brgo.xyz/img/bandsportshd.png",BAND SPORTS HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31854
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-1.png",BIS HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-1.png",BIS HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/46
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png",BOOMERANG FHD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png",BOOMERANG FHDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/48
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Canal_Brasil_logo.svg/1200px-Canal_Brasil_logo.svg.png",CANAL BRASIL HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Canal_Brasil_logo.svg/1200px-Canal_Brasil_logo.svg.png",CANAL BRASIL HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31855
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://i.imgur.com/1hs2ZfG.png",CANAL SONY HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://i.imgur.com/1hs2ZfG.png",CANAL SONY HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/57
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://i.imgur.com/1EGWuDA.png",CANÇÃO NOVA HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://i.imgur.com/1EGWuDA.png",CANÃ‡ÃƒO NOVA HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31990
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Network_2004_logo.svg/1024px-Cartoon_Network_2004_logo.svg.png",CARTOON NETWORK HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Network_2004_logo.svg/1024px-Cartoon_Network_2004_logo.svg.png",CARTOON NETWORK HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/61
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Network_2004_logo.svg/1024px-Cartoon_Network_2004_logo.svg.png",CARTOON NETWORK HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Network_2004_logo.svg/1024px-Cartoon_Network_2004_logo.svg.png",CARTOON NETWORK HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31856
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png",CINEMAX HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png",CINEMAX HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/63
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png",CINEMAX HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png",CINEMAX HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31857
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/800px-CNN_Brasil.svg.png",CNN BRASIL HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/800px-CNN_Brasil.svg.png",CNN BRASIL HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/30407
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/800px-CNN_Brasil.svg.png",CNN BRASIL HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/800px-CNN_Brasil.svg.png",CNN BRASIL HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31860
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/combate.png",COMBATE HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/combate.png",COMBATE HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/66
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://i.imgur.com/WPmcn2I.png",COMBATE HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://i.imgur.com/WPmcn2I.png",COMBATE HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31861
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="http://iconmedia.com.sg/wp-content/uploads/2015/11/1002960_436171836479371_516632628_n.png",COMEDY CENTRAL HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="http://iconmedia.com.sg/wp-content/uploads/2015/11/1002960_436171836479371_516632628_n.png",COMEDY CENTRAL HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/68
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="http://iconmedia.com.sg/wp-content/uploads/2015/11/1002960_436171836479371_516632628_n.png",COMEDY CENTRAL HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="http://iconmedia.com.sg/wp-content/uploads/2015/11/1002960_436171836479371_516632628_n.png",COMEDY CENTRAL HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31862
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://1.bp.blogspot.com/-afg4AA1ihZs/WacphiEZsKI/AAAAAAAA-Nk/tH6tqCqmT3A-i8e7mn6EtQBIZ0FTYqBrgCLcBGAs/s640/curta.png",CURTA! HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://1.bp.blogspot.com/-afg4AA1ihZs/WacphiEZsKI/AAAAAAAA-Nk/tH6tqCqmT3A-i8e7mn6EtQBIZ0FTYqBrgCLcBGAs/s640/curta.png",CURTA! HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31863
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://conteudo.imguol.com.br/c/blogs/c1/2019/01/11/dazn-og-1547235505422_v2_450x337.jpg",DAZN 01 HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://conteudo.imguol.com.br/c/blogs/c1/2019/01/11/dazn-og-1547235505422_v2_450x337.jpg",DAZN 01 HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/76
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://conteudo.imguol.com.br/c/blogs/c1/2019/01/11/dazn-og-1547235505422_v2_450x337.jpg",DAZN 02 HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://conteudo.imguol.com.br/c/blogs/c1/2019/01/11/dazn-og-1547235505422_v2_450x337.jpg",DAZN 02 HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/77
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://conteudo.imguol.com.br/c/blogs/c1/2019/01/11/dazn-og-1547235505422_v2_450x337.jpg",DAZN 03 HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://conteudo.imguol.com.br/c/blogs/c1/2019/01/11/dazn-og-1547235505422_v2_450x337.jpg",DAZN 03 HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/78
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://conteudo.imguol.com.br/c/blogs/c1/2019/01/11/dazn-og-1547235505422_v2_450x337.jpg",DAZN 04 HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://conteudo.imguol.com.br/c/blogs/c1/2019/01/11/dazn-og-1547235505422_v2_450x337.jpg",DAZN 04 HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/79
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo.png",DISCOVERY CHANNEL HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo.png",DISCOVERY CHANNEL HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/81
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo.png",DISCOVERY CHANNEL HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo.png",DISCOVERY CHANNEL HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31864
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo.png",DISCOVERY CHANNEL FHD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo.png",DISCOVERY CHANNEL FHDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/80
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://1.bp.blogspot.com/-xDR9E6uDt7A/XNhOPLuM5yI/AAAAAAAAT3E/rO2-hV3Cqos-MTOSPK-4wcxPtjx30IbcQCLcBGAs/s1600/discoverycivilizationb.png",DISCOVERY CIVILIZATION HD²
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://i.imgur.com/JF2Y1ln.png",DISCOVERY H&H HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://1.bp.blogspot.com/-xDR9E6uDt7A/XNhOPLuM5yI/AAAAAAAAT3E/rO2-hV3Cqos-MTOSPK-4wcxPtjx30IbcQCLcBGAs/s1600/discoverycivilizationb.png",DISCOVERY CIVILIZATION HDÂ²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://i.imgur.com/JF2Y1ln.png",DISCOVERY H&H HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/85
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://i.imgur.com/JF2Y1ln.png",DISCOVERY H&H HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://i.imgur.com/JF2Y1ln.png",DISCOVERY H&H HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31866
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://i.imgur.com/GHBV1tZ.png",DISCOVERY KIDS HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://i.imgur.com/GHBV1tZ.png",DISCOVERY KIDS HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31867
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/discovery-kids-logo.png",DISCOVERY KIDS HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/discovery-kids-logo.png",DISCOVERY KIDS HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/88
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://i.imgur.com/JdmLUwg.png",DISCOVERY SCIENCE HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://i.imgur.com/JdmLUwg.png",DISCOVERY SCIENCE HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31868
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a8/LOGO_DISCOVERY_SCIENCE.png",DISCOVERY SCIENCE HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a8/LOGO_DISCOVERY_SCIENCE.png",DISCOVERY SCIENCE HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/90
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://i.imgur.com/mEVTqVO.png",DISCOVERY THEATER HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://i.imgur.com/mEVTqVO.png",DISCOVERY THEATER HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31869
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://i.imgur.com/mEVTqVO.png",DISCOVERY THEATER HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://i.imgur.com/mEVTqVO.png",DISCOVERY THEATER HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/92
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png",DISCOVERY TURBO HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png",DISCOVERY TURBO HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31870
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png",DISCOVERY TURBO HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png",DISCOVERY TURBO HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/94
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1024px-World_Discovery_HD_logo.svg.png",DISCOVERY WORLD HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1024px-World_Discovery_HD_logo.svg.png",DISCOVERY WORLD HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31871
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1024px-World_Discovery_HD_logo.svg.png",DISCOVERY WORLD HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1024px-World_Discovery_HD_logo.svg.png",DISCOVERY WORLD HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/97
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/792px-2014_Disney_Channel_logo.svg.png",DISNEY CHANNEL HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/792px-2014_Disney_Channel_logo.svg.png",DISNEY CHANNEL HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31872
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/792px-2014_Disney_Channel_logo.svg.png",DISNEY CHANNEL HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/792px-2014_Disney_Channel_logo.svg.png",DISNEY CHANNEL HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/99
 #EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://i.pinimg.com/originals/a8/2c/d3/a82cd30b2a93cdbc6f13ffcf03ae765b.png",DISNEY JR HD
 http://brasiltv2020.live:80/deyamedeiros/121148/31874
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://i.pinimg.com/originals/a8/2c/d3/a82cd30b2a93cdbc6f13ffcf03ae765b.png",DISNEY JR HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://i.pinimg.com/originals/a8/2c/d3/a82cd30b2a93cdbc6f13ffcf03ae765b.png",DISNEY JR HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/100
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo_Disney_XD.png/640px-Logo_Disney_XD.png",DISNEY XD HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo_Disney_XD.png/640px-Logo_Disney_XD.png",DISNEY XD HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31873
-#EXTINF:-1 group-title="CCANAIS | HD" tvg-logo="http://www.logotypes101.com/logos/369/4E6FF8D73A16CA6B1A72995ECB1B5380/eentertainment.png",E! HD²
+#EXTINF:-1 group-title="CCANAIS | HD" tvg-logo="http://www.logotypes101.com/logos/369/4E6FF8D73A16CA6B1A72995ECB1B5380/eentertainment.png",E! HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31875
-#EXTINF:-1 group-title="CCANAIS | HD" tvg-logo="http://www.logotypes101.com/logos/369/4E6FF8D73A16CA6B1A72995ECB1B5380/eentertainment.png",E! HD¹
+#EXTINF:-1 group-title="CCANAIS | HD" tvg-logo="http://www.logotypes101.com/logos/369/4E6FF8D73A16CA6B1A72995ECB1B5380/eentertainment.png",E! HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/105
-#EXTINF:-1 group-title="CCANAIS | HD" tvg-logo="https://img.ibxk.com.br/2016/11/programas/15563009143717446.png",EI PLUS HD¹
+#EXTINF:-1 group-title="CCANAIS | HD" tvg-logo="https://img.ibxk.com.br/2016/11/programas/15563009143717446.png",EI PLUS HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/113
-#EXTINF:-1 group-title="CCANAIS | HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/espn2.png",ESPN 2 HD¹
+#EXTINF:-1 group-title="CCANAIS | HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/espn2.png",ESPN 2 HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/121
-#EXTINF:-1 group-title="CCANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png",ESPN BRASIL HD²
+#EXTINF:-1 group-title="CCANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png",ESPN BRASIL HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31877
-#EXTINF:-1 group-title="CCANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png",ESPN BRASIL HD¹
+#EXTINF:-1 group-title="CCANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png",ESPN BRASIL HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/124
-#EXTINF:-1 group-title="CCANAIS | HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/espnextra.png",ESPN EXTRA HD²
+#EXTINF:-1 group-title="CCANAIS | HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/espnextra.png",ESPN EXTRA HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31878
-#EXTINF:-1 group-title="CCANAIS | HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/espnextra.png",ESPN EXTRA HD¹
+#EXTINF:-1 group-title="CCANAIS | HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/espnextra.png",ESPN EXTRA HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/126
-#EXTINF:-1 group-title="CCANAIS | HD" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-4.png",ESPN HD²
+#EXTINF:-1 group-title="CCANAIS | HD" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-4.png",ESPN HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31879
-#EXTINF:-1 group-title="CCANAIS | HD" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-4.png",ESPN HD¹
+#EXTINF:-1 group-title="CCANAIS | HD" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-4.png",ESPN HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/127
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/FashionTV2019novo.png/230px-FashionTV2019novo.png",FASHION TV HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/FashionTV2019novo.png/230px-FashionTV2019novo.png",FASHION TV HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31880
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="http://img.brgo.xyz/img/filmandarts.png",FILM & ARTS HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="http://img.brgo.xyz/img/filmandarts.png",FILM & ARTS HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31882
-#EXTINF:-1 group-title="CCANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/56/FishTV_logo.png",FISH TV HD²
+#EXTINF:-1 group-title="CCANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/56/FishTV_logo.png",FISH TV HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31883
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png",FOOD NETWORK HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png",FOOD NETWORK HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31884
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png",FOOD NETWORK HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png",FOOD NETWORK HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/132
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/1024px-FOX_wordmark-orange.svg.png",FOX HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/1024px-FOX_wordmark-orange.svg.png",FOX HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31885
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/1024px-FOX_wordmark-orange.svg.png",FOX HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/1024px-FOX_wordmark-orange.svg.png",FOX HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/136
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/FoxLife.png",FOX LIFE HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/FoxLife.png",FOX LIFE HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31888
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/FoxLife.png",FOX LIFE HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/FoxLife.png",FOX LIFE HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/138
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/foxpremium1b.png",FOX PREMIUM 1 HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/foxpremium1b.png",FOX PREMIUM 1 HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31886
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/foxpremium1b.png",FOX PREMIUM 1 HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/foxpremium1b.png",FOX PREMIUM 1 HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/140
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://help.foxplay.com/hc/article_attachments/360023498272/FOX_Premium_2_HD.png",FOX PREMIUM 2 HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://help.foxplay.com/hc/article_attachments/360023498272/FOX_Premium_2_HD.png",FOX PREMIUM 2 HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/141
-#EXTINF:-1 group-title="CCANAIS | HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo.png",FOX SPORT HD²
+#EXTINF:-1 group-title="CCANAIS | HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo.png",FOX SPORT HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31887
-#EXTINF:-1 group-title="CCANAIS | HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/foxsports2.png",FOX SPORTS 2 HD¹
+#EXTINF:-1 group-title="CCANAIS | HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/foxsports2.png",FOX SPORTS 2 HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/146
-#EXTINF:-1 group-title="CCANAIS | HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo.png",FOX SPORTS HD¹
+#EXTINF:-1 group-title="CCANAIS | HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo.png",FOX SPORTS HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/148
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://i0.wp.com/naoseinada.com.br/wp-content/uploads/2017/09/fx-logo.jpg",FX HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://i0.wp.com/naoseinada.com.br/wp-content/uploads/2017/09/fx-logo.jpg",FX HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31891
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://i0.wp.com/naoseinada.com.br/wp-content/uploads/2017/09/fx-logo.jpg",FX HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://i0.wp.com/naoseinada.com.br/wp-content/uploads/2017/09/fx-logo.jpg",FX HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/151
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="http://img.brgo.xyz/img/globohdsp.png",GLOBO BAHIA FHD H265²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="http://img.brgo.xyz/img/globohdsp.png",GLOBO BAHIA FHD H265Â²
 http://brasiltv2020.live:80/deyamedeiros/121148/31785
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="http://img.brgo.xyz/img/globohdsp.png",GLOBO BAHIA SD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="http://img.brgo.xyz/img/globohdsp.png",GLOBO BAHIA SDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/32373
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="http://img.brgo.xyz/img/globohdsp.png",GLOBO BAHIA SD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="http://img.brgo.xyz/img/globohdsp.png",GLOBO BAHIA SDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/32408
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="http://img.brgo.xyz/img/globohdsp.png",GLOBO BAHIA SUBAE HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="http://img.brgo.xyz/img/globohdsp.png",GLOBO BAHIA SUBAE HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/409
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="http://img.brgo.xyz/img/globohdsp.png",GLOBO HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="http://img.brgo.xyz/img/globohdsp.png",GLOBO HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/32366
-#EXTINF:-1 group-title="CANAIS | NOTÍCIAS" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/globo-news-logo.png",GLOBO NEWS HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/globo-news-logo.png",GLOBO NEWS HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/32407
-#EXTINF:-1 group-title="CANAIS | NOTÍCIAS" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/globo-news-logo.png",GLOBO NEWS HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/globo-news-logo.png",GLOBO NEWS HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/177
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/gloob-logo.png",GLOOB HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/gloob-logo.png",GLOOB HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31893
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/gloob-logo.png",GLOOB HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/gloob-logo.png",GLOOB HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/179
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/1200px-GNT_logo-roxo.svg.png",GNT HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/1200px-GNT_logo-roxo.svg.png",GNT HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31894
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/1200px-GNT_logo-roxo.svg.png",GNT HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/1200px-GNT_logo-roxo.svg.png",GNT HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/181
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://3.bp.blogspot.com/-FiqHDE-xwqE/XG6mUjmkTwI/AAAAAAAABNE/X71BLGB2RiA1fVld1wDLpNbjpnFYIt-QQCLcBGAs/s320/hbo2-live-stream.png",HBO 2 HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://3.bp.blogspot.com/-FiqHDE-xwqE/XG6mUjmkTwI/AAAAAAAABNE/X71BLGB2RiA1fVld1wDLpNbjpnFYIt-QQCLcBGAs/s320/hbo2-live-stream.png",HBO 2 HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31901
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://3.bp.blogspot.com/-FiqHDE-xwqE/XG6mUjmkTwI/AAAAAAAABNE/X71BLGB2RiA1fVld1wDLpNbjpnFYIt-QQCLcBGAs/s320/hbo2-live-stream.png",HBO 2 HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://3.bp.blogspot.com/-FiqHDE-xwqE/XG6mUjmkTwI/AAAAAAAABNE/X71BLGB2RiA1fVld1wDLpNbjpnFYIt-QQCLcBGAs/s320/hbo2-live-stream.png",HBO 2 HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/185
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://i.pinimg.com/originals/1d/93/e1/1d93e121cf3b05bc0d8b7468e7c9da1c.png",HBO FAMILY HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://i.pinimg.com/originals/1d/93/e1/1d93e121cf3b05bc0d8b7468e7c9da1c.png",HBO FAMILY HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31896
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://i.pinimg.com/originals/1d/93/e1/1d93e121cf3b05bc0d8b7468e7c9da1c.png",HBO FAMILY HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://i.pinimg.com/originals/1d/93/e1/1d93e121cf3b05bc0d8b7468e7c9da1c.png",HBO FAMILY HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/187
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="http://p2toopnet.ml:2082/files/logo/hbo.png",HBO HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="http://p2toopnet.ml:2082/files/logo/hbo.png",HBO HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31897
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/hbo.png",HBO HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/hbo.png",HBO HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/189
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://forounivers.com/uploads/monthly_2020_02/large.hbomundicolor.png.cc01ec854c23d1498a995a4fc37d22a9.png",HBO MUNDI HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://forounivers.com/uploads/monthly_2020_02/large.hbomundicolor.png.cc01ec854c23d1498a995a4fc37d22a9.png",HBO MUNDI HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/213
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",HBO PLUS HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",HBO PLUS HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31898
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",HBO PLUS HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",HBO PLUS HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/191
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://canaismax.com/img/canais/cc4f0ce37f3250f4684cc49221d4e419.png",HBO POP HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://canaismax.com/img/canais/cc4f0ce37f3250f4684cc49221d4e419.png",HBO POP HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31899
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://canaismax.com/img/canais/cc4f0ce37f3250f4684cc49221d4e419.png",HBO POP HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://canaismax.com/img/canais/cc4f0ce37f3250f4684cc49221d4e419.png",HBO POP HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/219
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1200px-HBO_Signature.svg_-1.png",HBO SIGNATURE HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1200px-HBO_Signature.svg_-1.png",HBO SIGNATURE HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31900
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1200px-HBO_Signature.svg_-1.png",HBO SIGNATURE HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1200px-HBO_Signature.svg_-1.png",HBO SIGNATURE HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/195
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://www.vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/canal-hbo-xtreme-252x252.png",HBO XTREME HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://www.vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/canal-hbo-xtreme-252x252.png",HBO XTREME HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31895
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://www.vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/canal-hbo-xtreme-252x252.png",HBO XTREME HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://www.vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/canal-hbo-xtreme-252x252.png",HBO XTREME HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/215
-#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="https://i.pinimg.com/280x280_RS/1b/f1/d4/1bf1d4bf0ed8c37e1c8efc5b17401467.jpg",HGTV HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://i.pinimg.com/280x280_RS/1b/f1/d4/1bf1d4bf0ed8c37e1c8efc5b17401467.jpg",HGTV HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/198
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://i.imgur.com/JaaXRWZ.png",HISTORY  HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://i.imgur.com/JaaXRWZ.png",HISTORY  HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31902
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png",HISTORY 2 HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png",HISTORY 2 HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31903
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png",HISTORY 2 HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png",HISTORY 2 HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/200
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/03/history-channel-logo.png",HISTORY HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/03/history-channel-logo.png",HISTORY HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/203
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://i.imgur.com/yBM4voC.png",ID HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://i.imgur.com/yBM4voC.png",ID HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31904
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/ID_-_Investiga%C3%A7%C3%A3o_Discovery.png",ID HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/ID_-_Investiga%C3%A7%C3%A3o_Discovery.png",ID HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/207
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/1200px-Lifetime_logo17.svg.png",LIFETIME HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/1200px-Lifetime_logo17.svg.png",LIFETIME HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31905
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/1200px-Lifetime_logo17.svg.png",LIFETIME HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/1200px-Lifetime_logo17.svg.png",LIFETIME HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/209
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://i7.pngguru.com/preview/390/91/578/love-nature-4k-resolution-television-blue-ant-media-18.jpg",LOVE NATURE HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://i7.pngguru.com/preview/390/91/578/love-nature-4k-resolution-television-blue-ant-media-18.jpg",LOVE NATURE HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31906
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2017/01/Megapix.jpg",MEGAPIX HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2017/01/Megapix.jpg",MEGAPIX HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31909
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2017/01/Megapix.jpg",MEGAPIX HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2017/01/Megapix.jpg",MEGAPIX HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/222
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://portal4.files.wordpress.com/2012/12/mtv-brasil.png",MTV HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://portal4.files.wordpress.com/2012/12/mtv-brasil.png",MTV HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31910
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://portal4.files.wordpress.com/2012/12/mtv-brasil.png",MTV HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://portal4.files.wordpress.com/2012/12/mtv-brasil.png",MTV HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/225
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/03/multishow-logo.png",MULTISHOW HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/03/multishow-logo.png",MULTISHOW HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31911
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/03/multishow-logo.png",MULTISHOW HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/03/multishow-logo.png",MULTISHOW HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/228
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/LogoMusicRoxo.png",MUSIC BOX BRAZIL HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/LogoMusicRoxo.png",MUSIC BOX BRAZIL HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31912
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/LogoMusicRoxo.png",MUSIC BOX BRAZIL HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/LogoMusicRoxo.png",MUSIC BOX BRAZIL HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/230
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png",NATGEO HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png",NATGEO HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31914
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png",NATGEO HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png",NATGEO HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/235
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://i.imgur.com/TzONFTx.png",NATGEO KIDS HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://i.imgur.com/TzONFTx.png",NATGEO KIDS HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31913
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1024px-Natgeo_Kids_logo.svg.png",NATGEO KIDS HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1024px-Natgeo_Kids_logo.svg.png",NATGEO KIDS HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/237
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/nat-geo-wild-logo.png",NATGEO WILD HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/nat-geo-wild-logo.png",NATGEO WILD HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/238
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://www.pngitem.com/pimgs/m/146-1466390_nick-logo-png-nickelodeon-logo-png-transparent-png.png",NICK HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://www.pngitem.com/pimgs/m/146-1466390_nick-logo-png-nickelodeon-logo-png-transparent-png.png",NICK HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31917
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png",NICK JR HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png",NICK JR HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31915
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nick-jr-logo.png",NICK JR HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nick-jr-logo.png",NICK JR HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/248
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nickelodeon-logo.png",NICKELODEON HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nickelodeon-logo.png",NICKELODEON HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31916
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nickelodeon-logo.png",NICKELODEON HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nickelodeon-logo.png",NICKELODEON HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/246
 #EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://i.imgur.com/1q5BvWY.png",OFF HD
 http://brasiltv2020.live:80/deyamedeiros/121148/31918
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo.png",OFF HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo.png",OFF HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/251
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://www.stickpng.com/assets/images/58483b6584e35b574e745380.png",PARAMOUNT HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://www.stickpng.com/assets/images/58483b6584e35b574e745380.png",PARAMOUNT HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31919
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://www.stickpng.com/assets/images/58483b6584e35b574e745380.png",PARAMOUNT HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://www.stickpng.com/assets/images/58483b6584e35b574e745380.png",PARAMOUNT HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/253
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://www.epgrupo.com.br/wp-content/uploads/play-1.png",PLAY KIDS HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://www.epgrupo.com.br/wp-content/uploads/play-1.png",PLAY KIDS HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31920
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/polishoptv.png",POLISHOP TV HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/polishoptv.png",POLISHOP TV HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31921
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://multicanais.com/wp-content/uploads/2019/05/Premiere-2-.png",PREMIERE 2 HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://multicanais.com/wp-content/uploads/2019/05/Premiere-2-.png",PREMIERE 2 HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31929
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://multicanais.com/wp-content/uploads/2019/05/Premiere-2-.png",PREMIERE 2 HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://multicanais.com/wp-content/uploads/2019/05/Premiere-2-.png",PREMIERE 2 HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/260
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://multicanais.com/wp-content/uploads/2019/05/Assistir-Premiere-3-online-ao-vivo.png",PREMIERE 3 HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://multicanais.com/wp-content/uploads/2019/05/Assistir-Premiere-3-online-ao-vivo.png",PREMIERE 3 HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31923
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://multicanais.com/wp-content/uploads/2019/05/Assistir-Premiere-3-online-ao-vivo.png",PREMIERE 3 HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://multicanais.com/wp-content/uploads/2019/05/Assistir-Premiere-3-online-ao-vivo.png",PREMIERE 3 HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/263
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://multicanais.com/wp-content/uploads/2019/05/Premiere-4.png",PREMIERE 4 HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://multicanais.com/wp-content/uploads/2019/05/Premiere-4.png",PREMIERE 4 HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31924
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://multicanais.com/wp-content/uploads/2019/05/Premiere-4.png",PREMIERE 4 HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://multicanais.com/wp-content/uploads/2019/05/Premiere-4.png",PREMIERE 4 HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/266
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://canaismax.com/img/canais/b0112d64c13364b274efb615ec89d4d8.png",PREMIERE 5 HD³
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://canaismax.com/img/canais/b0112d64c13364b274efb615ec89d4d8.png",PREMIERE 5 HDÂ³
 http://brasiltv2020.live:80/deyamedeiros/121148/31928
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://canaismax.com/img/canais/b0112d64c13364b274efb615ec89d4d8.png",PREMIERE 5 HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://canaismax.com/img/canais/b0112d64c13364b274efb615ec89d4d8.png",PREMIERE 5 HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31922
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://canaismax.com/img/canais/b0112d64c13364b274efb615ec89d4d8.png",PREMIERE 5 HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://canaismax.com/img/canais/b0112d64c13364b274efb615ec89d4d8.png",PREMIERE 5 HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/269
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://multicanais.com/wp-content/uploads/2019/05/assistir-premiere6-ao-vivo-online.png",PREMIERE 6 HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://multicanais.com/wp-content/uploads/2019/05/assistir-premiere6-ao-vivo-online.png",PREMIERE 6 HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31925
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://multicanais.com/wp-content/uploads/2019/05/assistir-premiere6-ao-vivo-online.png",PREMIERE 6 HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://multicanais.com/wp-content/uploads/2019/05/assistir-premiere6-ao-vivo-online.png",PREMIERE 6 HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/272
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://assets.website-files.com/56a8f71796f7e474512210ca/5d69a0e92927f64ffa4a9cad_Premiere.png",PREMIERE 7 HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://assets.website-files.com/56a8f71796f7e474512210ca/5d69a0e92927f64ffa4a9cad_Premiere.png",PREMIERE 7 HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31926
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://assets.website-files.com/56a8f71796f7e474512210ca/5d69a0e92927f64ffa4a9cad_Premiere.png",PREMIERE 7 HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://assets.website-files.com/56a8f71796f7e474512210ca/5d69a0e92927f64ffa4a9cad_Premiere.png",PREMIERE 7 HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/275
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_premiere-clubes_m.png",PREMIERE CLUBES HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_premiere-clubes_m.png",PREMIERE CLUBES HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31927
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_premiere-clubes_m.png",PREMIERE CLUBES HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_premiere-clubes_m.png",PREMIERE CLUBES HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/280
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/primeboxbrazil.png",PRIME BOX BRAZIL HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/primeboxbrazil.png",PRIME BOX BRAZIL HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31930
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="http://img.brgo.xyz/img/rai.png",Rai1 HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="http://img.brgo.xyz/img/rai.png",Rai1 HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31931
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6e/Record_logo1-1-.png/revision/latest?cb=20150728123200",RECORD BA HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6e/Record_logo1-1-.png/revision/latest?cb=20150728123200",RECORD BA HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31932
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6e/Record_logo1-1-.png/revision/latest?cb=20150728123200",RECORD BA SD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6e/Record_logo1-1-.png/revision/latest?cb=20150728123200",RECORD BA SDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/32049
-#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png",REDE TV HD²
+#EXTINF:-1 group-title=" CANAIS | HD " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png",REDE TV HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31949
-#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png",REDE TV HD¹
+#EXTINF:-1 group-title=" CANAIS | HD " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png",REDE TV HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/309
-#EXTINF:-1 group-title="CANAIS | RELIGIOSOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png",REDE VIDA HD²
+#EXTINF:-1 group-title=" CANAIS | HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png",REDE VIDA HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/32059
-#EXTINF:-1 group-title="CANAIS | SBT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png",SBT HD²
+#EXTINF:-1 group-title=" CANAIS | HD " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png",SBT HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31951
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://i.imgur.com/1hs2ZfG.png",SONY HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://i.imgur.com/1hs2ZfG.png",SONY HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31953
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2017/09/canal-space-2.jpg",SPACE HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2017/09/canal-space-2.jpg",SPACE HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31954
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2017/09/canal-space-2.jpg",SPACE HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2017/09/canal-space-2.jpg",SPACE HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/331
-#EXTINF:-1 group-title="CCANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/SporTV_2_2017_logo.svg/1280px-SporTV_2_2017_logo.svg.png",SPORTV 2 HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/SporTV_2_2017_logo.svg/1280px-SporTV_2_2017_logo.svg.png",SPORTV 2 HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/334
-#EXTINF:-1 group-title="CCANAIS | HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/sportv3.png",SPORTV 3 HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/sportv3.png",SPORTV 3 HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/337
-#EXTINF:-1 group-title="CCANAIS | HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png",SPORTV HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png",SPORTV HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31955
-#EXTINF:-1 group-title="CCANAIS | HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png",SPORTV HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png",SPORTV HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/340
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2015/09/Studio-Universal.jpg",STUDIO UNIVERSAL HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2015/09/Studio-Universal.jpg",STUDIO UNIVERSAL HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31956
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2015/09/Studio-Universal.jpg",STUDIO UNIVERSAL HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2015/09/Studio-Universal.jpg",STUDIO UNIVERSAL HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/343
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://i.imgur.com/OsHUmIG.png",SYFY HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://i.imgur.com/OsHUmIG.png",SYFY HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31957
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://i.imgur.com/OsHUmIG.png",SYFY HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://i.imgur.com/OsHUmIG.png",SYFY HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/346
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1024px-TBS_logo_2016.svg.png",TBS HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1024px-TBS_logo_2016.svg.png",TBS HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31958
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1200px-TBS_logo_2016.svg.png",TBS HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1200px-TBS_logo_2016.svg.png",TBS HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/348
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png",TCM HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png",TCM HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31959
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://i.pinimg.com/originals/66/b8/00/66b80073cf066f91017a71c61b4a5444.png",TELECINE ACTION HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://i.pinimg.com/originals/66/b8/00/66b80073cf066f91017a71c61b4a5444.png",TELECINE ACTION HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31962
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://i.pinimg.com/originals/66/b8/00/66b80073cf066f91017a71c61b4a5444.png",TELECINE ACTION HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://i.pinimg.com/originals/66/b8/00/66b80073cf066f91017a71c61b4a5444.png",TELECINE ACTION HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/352
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://static.wixstatic.com/media/f242b4_88ffa94aee054bd7b73fc6e5f894856b~mv2.png",TELECINE CULT HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://static.wixstatic.com/media/f242b4_88ffa94aee054bd7b73fc6e5f894856b~mv2.png",TELECINE CULT HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31963
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://static.wixstatic.com/media/f242b4_88ffa94aee054bd7b73fc6e5f894856b~mv2.png",TELECINE CULT HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://static.wixstatic.com/media/f242b4_88ffa94aee054bd7b73fc6e5f894856b~mv2.png",TELECINE CULT HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/355
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Telecine_Fun_2.png",TELECINE FUN HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Telecine_Fun_2.png",TELECINE FUN HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31960
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Telecine_Fun_2.png",TELECINE FUN HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Telecine_Fun_2.png",TELECINE FUN HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/358
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/telecine-premium-png-7.png",TELECINE PIPOCA HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/telecine-premium-png-7.png",TELECINE PIPOCA HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31961
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/telecine-premium-png-7.png",TELECINE PIPOCA HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/telecine-premium-png-7.png",TELECINE PIPOCA HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/361
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://ap.imagensbrasil.org/images/2020/02/14/Telecine-Premium-Logo-1-9853.png",TELECINE PREMIUM HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://ap.imagensbrasil.org/images/2020/02/14/Telecine-Premium-Logo-1-9853.png",TELECINE PREMIUM HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31964
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://ap.imagensbrasil.org/images/2020/02/14/Telecine-Premium-Logo-1-9853.png",TELECINE PREMIUM HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://ap.imagensbrasil.org/images/2020/02/14/Telecine-Premium-Logo-1-9853.png",TELECINE PREMIUM HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/364
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Telecine_Touch_3.png",TELECINE TOUCH HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Telecine_Touch_3.png",TELECINE TOUCH HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31965
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Telecine_Touch_3.png",TELECINE TOUCH HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Telecine_Touch_3.png",TELECINE TOUCH HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/367
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://2.bp.blogspot.com/-iqHrJQy-qbc/V2hILEBJoRI/AAAAAAAAtSA/cIK5DTUObEM6NFQlvK_pcgUynI4W3K0ZwCLcB/w1200-h630-p-nu/c33ad2930377f8b70dcfbdcf0ecd.png",TELECLUB CINEMA HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://2.bp.blogspot.com/-iqHrJQy-qbc/V2hILEBJoRI/AAAAAAAAtSA/cIK5DTUObEM6NFQlvK_pcgUynI4W3K0ZwCLcB/w1200-h630-p-nu/c33ad2930377f8b70dcfbdcf0ecd.png",TELECLUB CINEMA HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31966
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/TLC_Discovery.png",TLC HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/TLC_Discovery.png",TLC HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31967
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/TLC_Discovery.png",TLC HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/TLC_Discovery.png",TLC HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/371
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TNT_%28TV_Channel_Logo%29.png",TNT HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TNT_%28TV_Channel_Logo%29.png",TNT HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31968
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TNT_%28TV_Channel_Logo%29.png",TNT HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TNT_%28TV_Channel_Logo%29.png",TNT HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/374
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tntseries.png",TNT SERIES HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tntseries.png",TNT SERIES HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31969
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tntseries.png",TNT SERIES HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tntseries.png",TNT SERIES HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/377
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://boxbrazil.tv.br/wp-content/uploads/2019/06/logo-travel.png",TRAVEL BOX BRAZIL HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://boxbrazil.tv.br/wp-content/uploads/2019/06/logo-travel.png",TRAVEL BOX BRAZIL HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31970
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png",TV RA TIM BUM HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png",TV RA TIM BUM HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/403
-#EXTINF:-1 group-title="CANAIS | BAND" tvg-logo="http://logocanais.ddns.net/Logo/Band.png",TVB- BAND HD²
+#EXTINF:-1 group-title="CANAIS | BAND" tvg-logo="http://logocanais.ddns.net/Logo/Band.png",TVB- BAND HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31972
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://3.bp.blogspot.com/-88GbHY-zugw/W2oaKlXVoHI/AAAAAAABK7I/zTgyHHK0GvQt1lvwiaJzc-YJW0NYViLSACPcBGAYYCw/s1600/Fotos_Logo_Antes%2Be%2Bdepois_rebrand%2BUniversal%2BTV%2B%25283%2529.png",UNIVERSAL TV HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://3.bp.blogspot.com/-88GbHY-zugw/W2oaKlXVoHI/AAAAAAABK7I/zTgyHHK0GvQt1lvwiaJzc-YJW0NYViLSACPcBGAYYCw/s1600/Fotos_Logo_Antes%2Be%2Bdepois_rebrand%2BUniversal%2BTV%2B%25283%2529.png",UNIVERSAL TV HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31973
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://3.bp.blogspot.com/-88GbHY-zugw/W2oaKlXVoHI/AAAAAAABK7I/zTgyHHK0GvQt1lvwiaJzc-YJW0NYViLSACPcBGAYYCw/s1600/Fotos_Logo_Antes%2Be%2Bdepois_rebrand%2BUniversal%2BTV%2B%25283%2529.png",UNIVERSAL TV HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://3.bp.blogspot.com/-88GbHY-zugw/W2oaKlXVoHI/AAAAAAABK7I/zTgyHHK0GvQt1lvwiaJzc-YJW0NYViLSACPcBGAYYCw/s1600/Fotos_Logo_Antes%2Be%2Bdepois_rebrand%2BUniversal%2BTV%2B%25283%2529.png",UNIVERSAL TV HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/426
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png",VH1 HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png",VH1 HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31974
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png",VH1 HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png",VH1 HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/429
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ef/Canal_viva_logo_.png/revision/latest/scale-to-width-down/340?cb=20140519221640",VIVA HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ef/Canal_viva_logo_.png/revision/latest/scale-to-width-down/340?cb=20140519221640",VIVA HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31975
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ef/Canal_viva_logo_.png/revision/latest/scale-to-width-down/340?cb=20140519221640",VIVA HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ef/Canal_viva_logo_.png/revision/latest/scale-to-width-down/340?cb=20140519221640",VIVA HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/431
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://3.bp.blogspot.com/-MPjpPtP2GdA/WrfzcXd0asI/AAAAAAABFsM/wYIM1GaN_BYKJIFNtrvXw3hJ5R7qS0WZACPcBGAYYCw/s640/warnerchannel_orig.png",WARNER CHANNEL HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://3.bp.blogspot.com/-MPjpPtP2GdA/WrfzcXd0asI/AAAAAAABFsM/wYIM1GaN_BYKJIFNtrvXw3hJ5R7qS0WZACPcBGAYYCw/s640/warnerchannel_orig.png",WARNER CHANNEL HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/434
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://3.bp.blogspot.com/-MPjpPtP2GdA/WrfzcXd0asI/AAAAAAABFsM/wYIM1GaN_BYKJIFNtrvXw3hJ5R7qS0WZACPcBGAYYCw/s640/warnerchannel_orig.png",WARNER CNHANNEL HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://3.bp.blogspot.com/-MPjpPtP2GdA/WrfzcXd0asI/AAAAAAABFsM/wYIM1GaN_BYKJIFNtrvXw3hJ5R7qS0WZACPcBGAYYCw/s640/warnerchannel_orig.png",WARNER CNHANNEL HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31976
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Woohoo_logo.svg/1280px-Woohoo_logo.svg.png",WOOHOO HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Woohoo_logo.svg/1280px-Woohoo_logo.svg.png",WOOHOO HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31977
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://i.imgur.com/vvgtZf2.png",ZOOMOO HD²
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://i.imgur.com/vvgtZf2.png",ZOOMOO HDÂ²
 http://brasiltv2020.live:80/deyamedeiros/121148/31978
-#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://i.imgur.com/vvgtZf2.png",ZOOMOO HD¹
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="https://i.imgur.com/vvgtZf2.png",ZOOMOO HDÂ¹
 http://brasiltv2020.live:80/deyamedeiros/121148/25878
 #EXTINF:-1 ,DAZN Sport 1 HD
 http://chronostv.com:80/Aline9090/Aline8080/75563
@@ -437,26 +437,24 @@ http://chronostv.com:80/Aline9090/Aline8080/75559
 http://chronostv.com:80/Aline9090/Aline8080/73652
 #EXTINF:-1 group-title="CANAIS | HD" tvg-logo="http://z4.vc/xDI",HBO POP HD
 http://psrv.io:80/djalma/djalma/45148
-#EXTINF:-1 group-title="Canais | HD" tvg-logo="http://z4.vc/xDI",HBO XTREME HD
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="http://z4.vc/xDI",HBO XTREME HD
 http://psrv.io:80/djalma/djalma/45144
-#EXTINF:-1 group-title="Canais | HD" tvg-logo="http://z4.vc/77a",CNN Brasil HD
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="http://z4.vc/77a",CNN Brasil HD
 http://psrv.io:80/djalma/djalma/47358
-#EXTINF:-1 group-title="Canais | HD" tvg-logo="http://z4.vc/dAy",ID: Investigacao Discovery HD
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="http://z4.vc/dAy",ID: Investigacao Discovery HD
 http://psrv.io:80/djalma/djalma/49283
-#EXTINF:-1 group-title="Canais | HD" tvg-logo="http://z4.vc/Z05",E! FHD
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="http://z4.vc/Z05",E! FHD
 http://psrv.io:80/djalma/djalma/49292
-#EXTINF:-1 group-title="Canais | HD",FASHION TV HD
+#EXTINF:-1 group-title="CANAIS | HD",FASHION TV HD
 http://psrv.io:80/djalma/djalma/49293
-#EXTINF:-1 group-title="Canais | HD" tvg-logo="http://z4.vc/T5S",Film & Arts FHD
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="http://z4.vc/T5S",Film & Arts FHD
 http://psrv.io:80/djalma/djalma/49294
-#EXTINF:-1 group-title="Canais | HD",SYFY HD [LEG]
+#EXTINF:-1 group-title="CANAIS | HD",SYFY HD [LEG]
 http://psrv.io:80/djalma/djalma/49304
-#EXTINF:-1 group-title="Canais | HD",HBO HD [LEG]
+#EXTINF:-1 group-title="CANAIS | HD",HBO HD [LEG]
 http://psrv.io:80/djalma/djalma/49305
-#EXTINF:-1 group-title="Canais | HD",HBO PLUS HD [LEG]
+#EXTINF:-1 group-title="CANAIS | HD",HBO PLUS HD [LEG]
 http://psrv.io:80/djalma/djalma/49306
-#EXTINF:-1 group-title="Canais | HD" tvg-logo="http://z4.vc/osc",Globo TV Bahia HD
+#EXTINF:-1 group-title="CANAIS | HD" tvg-logo="http://z4.vc/osc",Globo TV Bahia HD
 http://psrv.io:80/djalma/djalma/52421
-
-
 
